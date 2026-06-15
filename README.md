@@ -145,8 +145,8 @@ Platform for community engagement and insights.
 ## 🤝 Let's Connect
 
 - GitHub: https://github.com/Sayeesh12
-- LinkedIn: YOUR_LINKEDIN_URL
-- Email: YOUR_EMAIL
+- LinkedIn: https://www.linkedin.com/in/sayeesh-mahale-55788b2b9/
+- Email: mahalesayeesh@gmail.com
 
 ---
 
